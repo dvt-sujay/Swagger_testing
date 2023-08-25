@@ -16,6 +16,10 @@ gem 'rspec-rails'
 
 gem 'rswag'
 
+gem 'jwt'
+
+gem 'byebug'
+
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
 
